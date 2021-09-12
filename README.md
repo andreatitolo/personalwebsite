@@ -1,2 +1,1 @@
-# personalwebsite
-Personal website new repo
+[![Netlify Status](https://api.netlify.com/api/v1/badges/b7399f0e-584f-43bb-9eec-1b8c146b1fd1/deploy-status)](https://app.netlify.com/sites/andreatitolo/deploys)
