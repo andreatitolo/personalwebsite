@@ -48,13 +48,13 @@
     identifier = "cv"
     weight = 70
 
- [[main]]
-    name = "HTML version"
-    url = "files/at_cv.html"
-    parent = "cv"
+# [[main]]
+#    name = "HTML version"
+#    url = "files/CV.html"
+#    parent = "cv"
 
  [[main]]
     name = "PDF version"
-    url = "files/titolo_cv.pdf"
+    url = "files/CV.pdf"
     parent = "cv"  
     
